@@ -24,4 +24,5 @@ function mobileMenu() {
     .catch(error => {
       alert('Eroare: ' + error.message);
     });
-  });
+  });c
+
